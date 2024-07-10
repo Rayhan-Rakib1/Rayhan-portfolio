@@ -166,3 +166,36 @@ padding: 40px;
 .target-title{
   margin: 0px 140px;
 }
+
+/* support-section */
+.support-section{
+  background-image: url(../assets/handshake.jpg);
+  border-radius: 16px;
+  background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+  padding: 64px 48px 64px 48px;
+  margin-top: 50px;
+  
+}
+.support-style{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+}
+input{
+  box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+padding: 19px 20px 19px 20px;
+}
+.submit-btn{
+  border-radius: 8px;
+  padding: 17px 20px 17px 20px;
+  background: rgb(255, 255, 255);
+}
+.support-description{
+  text-align: center;
+}
