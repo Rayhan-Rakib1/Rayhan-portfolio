@@ -49,6 +49,7 @@ flex-direction: column;
 justify-content: flex-start;
 align-items: center;
 padding: 0px;
+margin-top: 50px;
 }
 
 .banner-greetings{
@@ -60,7 +61,7 @@ letter-spacing: 0%;
 text-align: center;
 }
 .contact-btn{
-
+text-decoration: none;
 padding: 21px 24px 21px 24px;
 border-radius: 8px;
 color: rgb(255, 255, 255);
@@ -119,7 +120,6 @@ margin: 32px 0px;
   margin-top: 160px ;
 }
 .insparation{
-  /* align-items: center; */
   display: flex;
   flex-direction: column;
 }
